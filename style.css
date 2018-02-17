@@ -8,29 +8,31 @@ Content: #ebebeb
 body{
     width:960px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color:#777;
 }
 
 header {
-
+    background-color:#ebebeb;
 }
 
 nav {
-
+    background-color:#ebebeb;
 }
 
 footer{
-
+    background-color:#ebebeb;
 }
 
 section{
  width:495px;
+ background-color:#ebebeb;
 }
 aside{
-
+    background-color:#ebebeb;
 }
 
 article{
-
+    background-color:#ebebeb;
 }
 
 .clear {
