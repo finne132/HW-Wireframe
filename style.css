@@ -26,9 +26,11 @@ footer{
 section{
  width:495px;
  background-color:#ebebeb;
+ float:left;
 }
 aside{
     background-color:#ebebeb;
+    float:right;
 }
 
 article{
