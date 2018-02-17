@@ -15,31 +15,42 @@ header {
     background-color:#ebebeb;
     padding:20px;
     text-align: center;
+    margin:10px;
 }
 
 nav {
     background-color:#ebebeb;
     padding:20px;
     text-align: center;
+    margin:10px;
 }
 
 footer{
     background-color:#ebebeb;
-    width:960px;
-}
+    margin:10px;
+    align-content:center;
+    text-align:center;
+    padding:20px;
+ }
 
 section{
  width:495px;
  background-color:#ebebeb;
  float:left;
+ margin:10px;
+ text-align:center;
 }
 aside{
     background-color:#ebebeb;
-    float:right;
+    text-align:center;
+    height:270px;
+    margin:20px;
 }
 
 article{
     background-color:#ebebeb;
+    text-align:center;
+    margin:20px;
 }
 
 .clear {
