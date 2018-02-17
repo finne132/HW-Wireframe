@@ -14,15 +14,19 @@ body{
 header {
     background-color:#ebebeb;
     padding:20px;
+    text-align: center;
 }
 
 nav {
     background-color:#ebebeb;
     padding:20px;
+    text-align: center;
 }
 
 footer{
     background-color:#ebebeb;
+    position: absolute;
+    bottom: 0;
 }
 
 section{
