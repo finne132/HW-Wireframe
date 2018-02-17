@@ -1,5 +1,13 @@
-body{
+/* 
+Background: #777
+Content: #ebebeb
+*/
 
+
+
+body{
+    width:960px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 header {
@@ -15,7 +23,7 @@ footer{
 }
 
 section{
-
+ width:495px;
 }
 aside{
 
@@ -34,5 +42,5 @@ h1 {
 }
 
 p {
-    
+    font-size: 18px   
 }
